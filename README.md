@@ -14,6 +14,15 @@
 /plugin install joongyuskill@joongyuskill
 ```
 
+### Codex
+
+```bash
+codex plugin marketplace add joongyu01/joongyuskill
+codex plugin add joongyuskill@joongyuskill
+```
+
+Codex 앱은 설치 후 재시작하면 됩니다. Codex에서는 `$joongyuskill export` 처럼 부르거나 "joongyuskill export 해줘"라고 말하면 됩니다.
+
 ## 사용
 
 | 명령 | 동작 |
