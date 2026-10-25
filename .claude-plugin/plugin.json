@@ -1,0 +1,6 @@
+{
+  "name": "joongyuskill",
+  "version": "0.1.0",
+  "description": "AI 답변을 항공정비 언어(ASD-STE100) + 다이어그램 + HTML + 영상으로. /joongyuskill [on|diagram|html|video|export|off]",
+  "author": { "name": "joongyu01", "url": "https://github.com/joongyu01" }
+}

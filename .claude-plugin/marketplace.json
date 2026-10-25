@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "joongyuskill",
+  "description": "AI 답변을 사람이 이해하기 쉽게: STE 문장, 다이어그램, HTML, 영상.",
+  "owner": { "name": "joongyu01", "url": "https://github.com/joongyu01" },
+  "plugins": [
+    { "name": "joongyuskill", "description": "항공정비 언어(STE) + 다이어그램 + HTML + 영상 내보내기", "source": "./", "category": "productivity" }
+  ]
+}
